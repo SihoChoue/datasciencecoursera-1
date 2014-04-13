@@ -1,7 +1,7 @@
 rm(list = ls())
 library(data.table)
 
-setwd('C:/Users/sg0214263/Documents/Coursera/UCI HAR Dataset')
+setwd('')
 # this is the root under which the directories train and test, and the files are README, features_info, features, and activity_labels are extracted from the zip archive downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 # part 1 ---------------------------------------------------------------
